@@ -2,7 +2,7 @@ const { MessageEmbed } = require('discord.js');
 import { ICommand } from 'wokcommands'
 
 export default {
-	category: 'SaD',
+	category: 'Discords',
 	description: 'Sends SimsAfterDark discord link.',
 
 	permissions: ['ADMINISTRATOR'],

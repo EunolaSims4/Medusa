@@ -8,11 +8,15 @@
     "dev": "nodemon index.ts"
   },
   "keywords": [],
-  "author": "",
+  "author": "Helion",
   "license": "ISC",
   "dependencies": {
     "discord.js": "^13.2.0",
     "dotenv": "^10.0.0",
+    "mongoose": "^5.13.11",
     "wokcommands": "^1.5.3"
+  },
+  "devDependencies": {
+    "typescript": "4.4.2"
   }
 }

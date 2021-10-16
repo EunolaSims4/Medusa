@@ -2,7 +2,7 @@ const { MessageEmbed } = require('discord.js');
 import { ICommand } from 'wokcommands'
 
 export default {
-	category: 'SimRealist',
+	category: 'Discords',
 	description: 'Sends SimRealist discord link.',
 
 	permissions: ['ADMINISTRATOR'],
